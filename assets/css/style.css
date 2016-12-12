@@ -293,7 +293,7 @@ h1, h2, h3		{border:0px; margin:0px; padding:0px; font-weight:normal;}
 .b			{font-weight:bold;}
 .i			{font-style:italic;}
 .u			{text-decoration:underline;}
-.fc-white			{color:#FFFFFF;}
+.fc-white			{color:#000;}
 .fc-black			{color:#fff;}
 .fc-lblack			{color:#777777;}
 .fc-gray			{color:#999999;}
